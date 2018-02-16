@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Kavivanar|Lora|Merriweather|Roboto');
+
+body {
+	padding: 0;
+	margin: 0;
+	background-color: #e5e5e5;
+	font-family: "Roboto";
+	overflow: hidden;
+}
+
+#headtext {
+	font-family: "Lora";
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: 15px;
+	margin-top: 12px;
+}
+
+#contentbox {
+	width: 1300px;
+	height: 570px;
+	background-color: #fff;
+	position: absolute;
+	margin-left: 30px;
+	border-radius: 8px;
+}
+
+#textcontentbox {
+	margin-left: 20px;
+	margin-top: 13px;
+	font-size: 14px;
+}
+
+#LExercise1, #LExercise2, #LExercise3, #LExercise4, #LExercise5, #LExercise6, #LExercise7 {
+	margin-top: 15px;
+	margin-left: 30px;
+	width: 200px;
+}
+
+#footercontentbox {
+	margin-left: 500px;
+}
+
+#buttoncheck {
+    background-color: #81b38f;
+    color: #000;
+    text-transform: uppercase;
+    height: 30px;
+    border-radius: 3px;
+}
+
+#buttonclear {
+    background-color: #4e7585;
+    color: #fff;
+    text-transform: uppercase;
+    height: 30px;
+    border-radius: 3px;
+}
+
+#buttonclear2 {
+	background-color: #fff;
+	color: #949494;
+	border-color: #e3e3e3;
+	opacity: 0.4;
+}
+
+.spoilerup {
+
+}
+
+#LExerciseRight {
+	background-color: #d3f5e6;
+	border-color: #cee0d9;
+}
+
+#LExerciseWrong {
+	background-color: #d4a3a3;
+	border-color: #b36969;
+}
